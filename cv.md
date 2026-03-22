@@ -26,6 +26,7 @@ I landed an internship while in my fourth year of university. My training lasted
 - **Tools:** Visual Studio, ReSharper, Postman, Swagger, Rider, VS Code, DBEvear
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubikRr&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
 ***
 
 ## Code example:
@@ -71,11 +72,13 @@ Major: Applied Mathematics and Computer Science.
 - Interactive SQL Tutorial (Stepik, 2022)
 - ASP.NET Core Course: From Beginner to Pro (Stepik, 2023)
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
 ***
 
 ## Languages:
 - Russian - Native
 - English - B1
+
 ***
 
 ### Cool photo of corgi  
