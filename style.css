@@ -43,3 +43,39 @@ header nav a:hover {
     color: #a1837a;
     transform: translateY(-1px);
 }
+
+
+footer {
+    text-align: center;
+    padding: 26px 20px;
+    border-top: 1px solid rgba(221, 181, 171, 0.7);
+    background: rgba(255, 255, 255, 0.82);
+}
+
+footer p {
+    margin: 0;
+    color: #6d574e;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+footer img {
+    width: 40px;
+    height: auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+main {
+    flex: 1;
+    padding: 120px 24px 40px;
+    max-width: 1080px;
+    width: 100%;
+    margin: 0 auto;
+}
